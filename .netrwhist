@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/sebcioz/Projekty/Eris'
+let g:netrw_dirhist_2='/home/sebcioz/Temp/Algo'
+let g:netrw_dirhist_3='/home/sebcioz/Projekty/Eris'
+let g:netrw_dirhist_4='/home/sebcioz/Temp/valid'
+let g:netrw_dirhist_5='/home/sebcioz/Projekty/timer'
+let g:netrw_dirhist_6='/home/sebcioz/Temp/valid'
+let g:netrw_dirhist_7='/home/sebcioz/Projekty/ValidationsToSkip'
